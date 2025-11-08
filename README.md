@@ -8,7 +8,10 @@
 
 本文旨在构建一个关于人工智能（AI）时代下全新投资机遇的理论框架。本文首先定义了“生态型超级个体”（Ecological Super-Individual）这一由AI驱动的新型生产力形态，并系统阐述了“范式投资”（Paradigm Investing）作为一种面向未来的前瞻性投资逻辑的必要性与核心内涵。通过对一个已验证的深度案例进行解构，并结合全球趋势分析，本文最终论证：投资于“生态型超级个体”所代表的价值生成范式，是继平台经济之后，未来十年最具核心价值的投资方向之一。
 
-[![AI-shi-dai-de-chao-ji-ge-ti-xin-xi-tu.png](https://i.postimg.cc/bJzMJn9q/AI-shi-dai-de-chao-ji-ge-ti-xin-xi-tu.png)](https://postimg.cc/HJh3vVNN)
+<p align="center">
+  <img src="https://i.postimg.cc/BsdZB6wJ/AI-shi-dai-de-chao-ji-ge-ti-xin-xi-tu.png" alt="描述文字" style="max-width:100%; height:auto;">
+</p>
+
 
 ## 1. 绪论：生产力奇点与投资范式的重构
 
